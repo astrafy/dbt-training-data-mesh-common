@@ -3,6 +3,7 @@
 # name or the intended use of these models
 name: "astrafy_data_mesh_common"
 version: "1.0.0"
+config-version: 2
 
 
 # This setting configures which "profile" dbt uses for this project.
